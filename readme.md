@@ -1,6 +1,6 @@
 ## DiffCMR
 
-Tianqi Xiang*, Wenjun Yue*, Yiqun Lin, Jiewen Yang, Zhenkun Wang, Xiaomeng Li,  "DiffCMR: Fast Cardiac MRI Reconstruction with Diffusion Probabilistic Models" MICCAI2023 CMRxRecon Workshop
+Tianqi Xiang*, Wenjun Yue*, Yiqun Lin, Jiewen Yang, Zhenkun Wang, Xiaomeng Li,  ["DiffCMR: Fast Cardiac MRI Reconstruction with Diffusion Probabilistic Models"](https://arxiv.org/abs/2312.04853) MICCAI2023 CMRxRecon Workshop
 
 ### Data preparation
 
